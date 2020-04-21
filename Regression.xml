@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" >
+    <listeners>
+        <listener class-name="ExtentList.ExtentListiner"></listener>
+    </listeners>
+    <parameter name="browser" value="chromeSauceLab"></parameter>
+    <test name="SeleniumForBeginners1" >
+        <classes>
+            <class name="cataloguePage.cataloguePageTest">
+                <methods>
+                    <include name="verifyWomenCatalogeTabDisplay"/>
+                </methods>
+            </class>
+           <!-- <class name="cartPage.CartPageTest">
+                <methods>
+                    <include name="verifyBlouseAddCartwithQuantity"/>
+                    <include name="verifySleeveAddCartwithQuantitytwo"/>
+                </methods>
+            </class>
+            <class name="contactPage.ContactPageTest">
+                <methods>
+                    <include name="verifyValidContactPageCreate"/>
+                </methods>
+            </class>-->
+        </classes>
+    </test>
+
+</suite>
+

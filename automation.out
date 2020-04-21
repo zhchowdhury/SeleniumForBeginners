@@ -1,0 +1,184 @@
+2019-09-13 11:47:57 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-09-13 11:47:58 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (1ebd75b529eb6d6504efdaaa0b454183)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-09-13 11:47:59 INFO  CartPage:27 - Product add cart done
+2019-09-13 11:48:04 INFO  CartPage:29 - Product quantity added
+2019-09-13 11:48:04 INFO  ScriptBase:24 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-09-13 11:48:22 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (2de9eb31cb9b17893d8e3655677dc117)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-09-13 11:48:24 INFO  CartPage:27 - Product add cart done
+2019-09-13 11:48:38 INFO  CartPage:29 - Product quantity added
+2019-10-09 20:13:39 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-09 20:13:41 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (ce77e4cda2dc08c59145e67afc2644ad)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-09 20:13:42 INFO  CartPage:27 - Product add cart done
+2019-10-09 20:13:42 INFO  CartPage:29 - Product quantity added
+2019-10-09 20:13:42 INFO  ScriptBase:24 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-09 20:13:43 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (ce77e4cda2dc08c59145e67afc2644ad)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-09 20:13:44 INFO  CartPage:27 - Product add cart done
+2019-10-09 20:13:45 INFO  CartPage:29 - Product quantity added
+2019-10-15 13:04:38 INFO  ScriptBase:24 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 13:04:40 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (d846a2f62892809f44e279384d33c991)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 13:04:41 INFO  CartPage:27 - Product add cart done
+2019-10-15 13:04:42 INFO  CartPage:29 - Product quantity added
+2019-10-15 13:04:42 INFO  ScriptBase:27 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 13:04:43 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (d846a2f62892809f44e279384d33c991)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 13:04:44 INFO  CartPage:27 - Product add cart done
+2019-10-15 13:04:45 INFO  CartPage:29 - Product quantity added
+2019-10-15 13:08:02 INFO  ScriptBase:24 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 13:08:03 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (c7763e4b9441d8bc3eab0a6b9b50149a)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 13:08:05 INFO  CartPage:27 - Product add cart done
+2019-10-15 13:08:30 INFO  CartPage:29 - Product quantity added
+2019-10-15 13:08:30 INFO  ScriptBase:27 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 13:08:36 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (c7763e4b9441d8bc3eab0a6b9b50149a)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 13:08:38 INFO  CartPage:27 - Product add cart done
+2019-10-15 13:09:29 INFO  CartPage:29 - Product quantity added
+2019-10-15 13:12:53 INFO  ScriptBase:24 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 13:12:55 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (235ddb0b492390c570d860be48be1028)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 13:12:56 INFO  CartPage:27 - Product add cart done
+2019-10-15 13:12:56 INFO  CartPage:29 - Product quantity added
+2019-10-15 13:12:56 INFO  ScriptBase:27 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:25:04 INFO  ScriptBase:25 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:25:05 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (4cc399be87df35ea31a655967d251fc6)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:25:08 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:25:08 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:25:08 INFO  ScriptBase:28 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:27:50 INFO  ScriptBase:17 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:27:53 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (f9e79851738af437b6c17955d3fd8b48)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:27:58 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:27:59 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:27:59 INFO  ScriptBase:20 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:36:58 INFO  ScriptBase:17 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:36:59 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (6ddb3a61646042232dde12ef74b8c6b4)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:37:00 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:37:01 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:37:01 INFO  ScriptBase:20 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:37:43 INFO  ScriptBase:17 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:37:45 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (034a369608f0ab7c1b1ff259bbe8b564)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:37:47 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:37:47 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:38:51 INFO  ScriptBase:17 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:38:54 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (e841ae3f77d2be260acb63f85cf2852f)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:38:55 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:38:55 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:38:55 INFO  ScriptBase:20 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:40:42 INFO  ScriptBase:17 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:40:44 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (720d7fbb35a398445380011c6f415d7c)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:40:48 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:40:48 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:46:21 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:46:23 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (700e65632f5682a41160eaf2a04918d0)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:46:24 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:46:45 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:46:45 INFO  ScriptBase:17 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:47:10 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:47:13 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (82d1e28cfcb261769352dc3823d3b07a)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:47:14 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:47:14 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:48:02 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:48:09 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (342de7039bba738f9166d647f4888910)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:48:16 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:48:42 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:48:42 INFO  ScriptBase:24 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:49:00 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:49:08 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (7f97d361ddcd54eba9d499b30a821893)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:49:14 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:49:40 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:49:40 INFO  ScriptBase:24 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:51:47 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:51:49 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (44c74f22619a49db9f38d368a9c749d5)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:51:50 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:51:51 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:52:18 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:52:20 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (d328a864dd87ca53cc52e67cd66d7bad)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:52:21 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:52:21 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:52:21 INFO  ScriptBase:24 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 17:52:24 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (d328a864dd87ca53cc52e67cd66d7bad)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:52:25 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:52:25 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:58:52 INFO  ScriptBase:21 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-15 17:58:59 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (9fe825d50f7c4738d11ce0710408f558)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-15 17:59:01 INFO  CartPage:27 - Product add cart done
+2019-10-15 17:59:26 INFO  CartPage:29 - Product quantity added
+2019-10-15 17:59:26 INFO  ScriptBase:24 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-15 18:11:02 INFO  ScriptBase:21 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:11:04 INFO  ScriptBase:24 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:16:03 INFO  ScriptBase:21 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:16:05 INFO  ScriptBase:24 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:17:15 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:17:17 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:18:04 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:18:06 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:19:24 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:19:32 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:19:57 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:20:00 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:20:34 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:20:47 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:23:01 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:23:04 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:24:46 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:24:54 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:32:56 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:33:09 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-15 18:33:58 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-15 18:34:00 INFO  ScriptBase:20 - #########---verifyValidContactPageCreate test End----##########
+2019-10-16 20:47:03 INFO  ScriptBase:17 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 20:47:03 INFO  ScriptBase:17 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 20:47:03 INFO  ScriptBase:20 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 20:47:03 INFO  ScriptBase:20 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 20:47:07 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 20:47:07 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 20:47:09 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (495277eaad43a98cf80845a28a27ca5f)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 20:47:09 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (7276ed69544d359d8f5a3446e9905f78)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 20:48:43 INFO  ScriptBase:17 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 20:48:43 INFO  ScriptBase:17 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 20:48:43 INFO  ScriptBase:17 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 20:48:43 INFO  ScriptBase:20 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 20:48:44 INFO  ScriptBase:20 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 20:48:44 INFO  ScriptBase:20 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 20:48:49 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 20:48:52 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 20:48:52 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 20:48:56 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (2c77da44940a6297deb36009fc2c3746)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 20:48:57 INFO  CartPage:27 - Product add cart done
+2019-10-16 20:48:58 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (11a81b9c1a34eeddf1cc4bd422c061ef)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 20:48:58 INFO  CartPage:27 - Product add cart done
+2019-10-16 20:48:58 INFO  ScriptBase:23 - #########----verifySleeveAddCartwithQuantitytwo test Start----##########
+2019-10-16 20:48:59 INFO  CartPage:29 - Product quantity added
+2019-10-16 20:48:59 INFO  ScriptBase:17 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-16 20:48:59 INFO  ScriptBase:23 - #########----verifySleeveAddCartwithQuantitytwo test Start----##########
+2019-10-16 20:48:59 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (bc931819b1117f84767860cd711505c3)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 20:49:00 INFO  CartPage:27 - Product add cart done
+2019-10-16 20:49:00 INFO  ScriptBase:23 - #########----verifySleeveAddCartwithQuantitytwo test Start----##########
+2019-10-16 20:49:04 INFO  ScriptBase:17 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-16 21:05:53 INFO  ScriptBase:15 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 21:05:53 INFO  ScriptBase:18 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 21:05:58 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 21:06:00 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (50d45b01514a12ec4896186bc2f7e79e)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 21:06:01 INFO  CartPage:27 - Product add cart done
+2019-10-16 21:06:01 INFO  CartPage:29 - Product quantity added
+2019-10-16 21:06:01 INFO  ScriptBase:17 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-16 21:06:01 INFO  ScriptBase:23 - #########----verifySleeveAddCartwithQuantitytwo test Start----##########
+2019-10-16 21:06:05 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (50d45b01514a12ec4896186bc2f7e79e)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 21:06:05 INFO  CartPage:27 - Product add cart done
+2019-10-16 21:06:06 INFO  CartPage:29 - Product quantity added
+2019-10-16 21:06:06 INFO  ScriptBase:26 - #########---verifySleeveAddCartwithQuantitytwo test End----##########
+2019-10-16 21:06:10 INFO  ScriptBase:14 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-16 21:06:46 INFO  ScriptBase:15 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 21:06:46 INFO  ScriptBase:18 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 21:07:36 INFO  ScriptBase:15 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 21:07:36 INFO  ScriptBase:18 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 21:10:15 INFO  ScriptBase:15 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 21:10:15 INFO  ScriptBase:18 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 21:10:19 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 21:10:21 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (927d617d19c8c3cc9d03ef3e2850c414)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 21:10:22 INFO  CartPage:27 - Product add cart done
+2019-10-16 21:10:23 INFO  CartPage:29 - Product quantity added
+2019-10-16 21:10:23 INFO  ScriptBase:17 - #########---verifyBlouseAddCartwithQuantity test End----##########
+2019-10-16 21:10:23 INFO  ScriptBase:23 - #########----verifySleeveAddCartwithQuantitytwo test Start----##########
+2019-10-16 21:10:24 INFO  CartPage:25 - Home Page Button Clicked:[[ChromeDriver: chrome on MAC (927d617d19c8c3cc9d03ef3e2850c414)] -> xpath: //*[@id='header_logo']//img[@class='logo img-responsive']]
+2019-10-16 21:10:27 INFO  CartPage:27 - Product add cart done
+2019-10-16 21:13:40 INFO  ScriptBase:15 - #########----verifyWomenCatalogeTabDisplay test Start----##########
+2019-10-16 21:13:42 INFO  ScriptBase:18 - #########---verifyWomenCatalogeTabDisplay test End----##########
+2019-10-16 21:13:46 INFO  ScriptBase:14 - #########----verifyBlouseAddCartwithQuantity test Start----##########
+2019-10-16 21:15:23 INFO  ScriptBase:14 - #########----verifyValidContactPageCreate test Start----##########
+2019-10-16 21:15:26 INFO  ScriptBase:17 - #########---verifyValidContactPageCreate test End----##########

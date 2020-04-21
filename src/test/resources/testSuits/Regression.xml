@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" >
+
+<!--<listeners>
+    <listener class-name="reporting.Listeners.Listener"></listener>
+    <listener class-name="reporting.Listeners.AnnotationTransformer"></listener>
+</listeners>-->
+    <listeners>
+        <listener class-name="ExtentList.ExtentListiner"></listener>
+    </listeners>
+
+    <parameter name="browser" value="chrome"></parameter>
+    <test name="Regression">
+     <classes>
+            <!--<class name="contactPage.ContactPageTest">
+                <methods>
+                    <include name="verifyValidContactPageCreate"/>
+                </methods>
+            </class>
+
+
+            <class name="homepage.HomePageTest">
+                <methods>
+                    <include name="VerifyhomepageContactBarInfo"/>
+                    <include name="VerifyHatSearch"/>
+                    <include name="VerifySleeveSearch"/>
+                </methods>
+            </class>
+-->
+            <class name="login.LoginTest">
+                <methods>
+                    <include name="verifyInvalidLogin"/>
+                    <include name="verifyInvalidLoginWithInvalidEmail"/>
+                    <include name="verifyvalidLogin"/>
+                </methods>
+            </class>
+     </classes>
+    </test>
+</suite>

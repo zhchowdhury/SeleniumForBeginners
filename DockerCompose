@@ -1,0 +1,67 @@
+pipeline{
+ agent {
+   kubernetes {
+     label 'mypod'
+     defaultContainer 'jnlp'
+     yaml """
+apiVersion: 1.28.4
+kind: Pod
+metadata:
+ labels:
+   some-label: some-label-value
+spec:
+ containers:
+ - name: saucelab
+   image: henrrich/docker-sauce-connect:latest
+   command:
+   - cat
+   tty: true
+ - name: maven
+   image: maven:3.3.9
+   command:
+   - cat
+   tty: true
+ - name: gradle
+   image: gradle:latest
+   command:
+   - cat
+   tty: true
+"""
+   }
+ }
+stages {
+       stage('Main parallel') {
+           parallel {
+               stage('Start containers') {
+                   stages {
+                       stage('Start Sauce Connect') {
+                           steps{
+                                 container('saucelab'){
+                                 sh """
+                                 /usr/local/sauce-connect/bin/sc -u zaman.muhammad -k 7609574e-3afa-43d0-b893-87250d40e087 --tunnel-identifier HudsonTunnel &
+                                 """
+                                 }
+                           }
+                       }
+
+                   }
+               }
+               stage('Build UI Test') {
+                   stages {
+                       stage('Test'){
+                           steps{
+                                container('maven'){
+                                sh """
+                                sleep 1
+                                mvn clean test -DsuiteXmlFile=src/test/resources/testSuits/Regression.xml
+                                """
+                                }
+                           }
+                       }
+
+                   }
+               }
+           }
+       }
+   }
+}
