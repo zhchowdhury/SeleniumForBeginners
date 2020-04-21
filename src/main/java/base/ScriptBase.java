@@ -45,7 +45,7 @@ public class ScriptBase {
         else if(browser.equalsIgnoreCase("chromeSauceLab")){
             DesiredCapabilities caps=new DesiredCapabilities();
             caps.setCapability("browserName","chrome");
-            caps.setCapability("platform","macOS 10.13");
+            caps.setCapability("platform","macOS 10.15");
             caps.setCapability("version","latest");
            // caps.setCapability("tunnel-identifier","futureItVision");
             driver=new RemoteWebDriver(new URL(URL),caps);
